@@ -1,0 +1,40 @@
+.navigation {
+    background-color: rgb(235, 14, 14);
+    border-bottom-left-radius: 1rem;
+}
+.nav-brand {
+    padding: 1rem;
+}
+.list-non-bullet {
+    list-style: none;
+}
+.nav-pills {
+    text-align: right;
+    padding: 1rem;
+}
+.list-inline {
+    display: inline;
+    padding: 1rem;
+    
+}
+.hero {
+    padding: 1rem;
+}
+.hero-heading {
+    text-align: center;
+    color: blue;
+}
+.hero-image {
+max-width: 500px;
+margin: auto;
+display: block;
+}
+.section {
+    padding: 2rem;
+}
+.container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+    margin: auto;
+}
